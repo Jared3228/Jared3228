@@ -1,8 +1,5 @@
 ##👋 Hi there, I am Jared
 
-<!--
-**Jared3228/Jared3228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
